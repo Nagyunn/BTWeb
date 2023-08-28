@@ -1,0 +1,22 @@
+html{
+  font-family: Helvetica, Arial, sans-serif;
+}
+h1,h2{
+  color:aqua;
+}
+body{
+  background-color: burlywood ;
+  padding-left: 45px;
+}
+a{
+  color: red;
+}
+img{
+  height: 300px;
+}
+.Moods{
+  display: flex;
+}
+#nghieng{
+  opacity: 80%;
+}
